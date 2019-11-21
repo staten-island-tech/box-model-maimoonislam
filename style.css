@@ -13,6 +13,7 @@ body{
     ),
     url(media/NBAwallpaper.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #uppercase{
@@ -21,10 +22,45 @@ body{
 
 h1{
     font-family: 'Calistoga', cursive;
-    font-size: 98px
+    font-size: 90px
 }
 
 h2{
     font-family: 'Bebas Neue', cursive;
-    font-size: 70px
+    font-size: 60px;
+}
+
+#bucks {
+    position: absolute;
+    height: 32rem;
+    bottom: 58rem;
+    left:143rem;
+}
+
+#celtics{
+    position: absolute;
+    height: 28rem;
+    bottom: 28rem;
+    left:143rem;
+}
+
+#clippers{
+    position: absolute;
+    height: 35rem;
+    bottom: 14rem;
+    left:6rem;
+}
+
+#lakers{
+    position: absolute;
+    height: 33rem;
+    bottom: 50rem;
+    left:2rem;
+}
+
+#nuggets{
+    position: absolute;
+    height: 20rem;
+    bottom: 4rem;
+    left:143rem;
 }
